@@ -16,7 +16,11 @@ namespace FinalSE
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new frmLogin());
+=======
+            Application.Run(new formImport());
+>>>>>>> d983f1f63a9273e209ad71b03478d0e53a36d74b
         }
     }
 }
