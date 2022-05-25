@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace FinalSE
 {
-    public partial class Form1 : Form
+    public partial class formExport : Form
     {
-        public Form1()
+        public formExport()
         {
             InitializeComponent();
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }
