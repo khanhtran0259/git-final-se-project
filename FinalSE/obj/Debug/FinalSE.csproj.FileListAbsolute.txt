@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\bin\Debug\FinalSE.exe.config
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\bin\Debug\FinalSE.exe
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\bin\Debug\FinalSE.pdb
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.Form1.resources
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.Properties.Resources.resources
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.exe
+C:\Users\Admin\Desktop\Applications Exercises\FinalSE\git-final-se-project\FinalSE\obj\Debug\FinalSE.pdb
