@@ -1,6 +1,6 @@
 ﻿namespace FinalSE
 {
-    partial class Form1
+    partial class formImport
     {
         /// <summary>
         /// Required designer variable.
@@ -174,7 +174,7 @@
             this.txtQunatity.Size = new System.Drawing.Size(100, 20);
             this.txtQunatity.TabIndex = 14;
             // 
-            // Form1
+            // formImport
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -189,8 +189,8 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "formImport";
+            this.Text = "formImport";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
